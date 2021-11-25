@@ -1,5 +1,14 @@
-This is your template repository!
+I'd be able to answer common questions like:
 
-You will make all changes in the `changes` branch.
+How do you setup a React project?
+What is a component and how are they used?
+How do you add components?
+How is data passed to child components?
+How are state variables created and used?
+What is a callback function and how is it used to communicate data?
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+Setup a React project
+Add and use components
+Pass data to child components
+Use state variables
+Use callback functions to communicate data
